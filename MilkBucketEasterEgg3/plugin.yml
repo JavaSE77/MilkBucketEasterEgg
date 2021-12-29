@@ -1,0 +1,7 @@
+main: com.shadowlandsmc.milkbucketeasteregg.Main
+name: MilkBucketEasterEgg
+description: Click a mob with a milk bucket to turn them into a baby
+author: JavaSE
+version: 1.0.0
+api-version: 1.17
+commands:
